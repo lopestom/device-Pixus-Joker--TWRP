@@ -1,4 +1,4 @@
-# TWRP device tree for Tablet PC Pixus Joker
+# TWRP device tree for Tablet Pixus Joker
 Вся информация и файлы находятся здесь: https://4pda.to/forum/index.php?s=&showtopic=1029376&view=findpost&p=108212586
 
 Операционная система: Android
