@@ -15,8 +15,8 @@
 # limitations under the License.
 #
 
-#add_lunch_combo omni_Joker-userdebug
-#add_lunch_combo omni_Joker-eng
-#add_brunch_combo omni_Joker-eng
+add_lunch_combo omni_Joker-userdebug
+add_lunch_combo omni_Joker-eng
+add_brunch_combo omni_Joker-eng
 #COMMON_LUNCH_CHOICES omni_Joker-userdebug
 #COMMON_LUNCH_CHOICES omni_Joker-eng
