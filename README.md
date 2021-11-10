@@ -19,9 +19,11 @@ MediaTek Helio P22
 
 ## To build - Build with minimal Omni TWRP
 ```
+export ALLOW_MISSING_DEPENDENCIES=true
+export LC_ALL=C
+export USE_NINJA=false
 . build/envsetup.sh
 lunch omni_Joker-eng
-make clean 
 mka recoveryimage
 ```
 
